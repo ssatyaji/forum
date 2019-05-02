@@ -1,0 +1,27 @@
+.title {
+  font-weight: bold;  
+}
+
+.count {
+  float: right;
+  margin-bottom: 15px;
+}
+
+.thread {
+  border-bottom: 1px solid #000000;  
+  margin-bottom: 15px;    
+}
+
+.action {
+  float: left;
+}
+
+.edit {
+  float: none;
+  margin-bottom: 15px;
+}
+
+.comment {
+  margin-top: 15px;
+  border-top: 1px solid #000;
+}
